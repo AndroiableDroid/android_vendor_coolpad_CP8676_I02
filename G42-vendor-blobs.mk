@@ -19,7 +19,7 @@ PRODUCT_COPY_FILES += $(call find-copy-subdir-files,*,vendor/InFocus/G42/proprie
 
 PRODUCT_COPY_FILES += $(call find-copy-subdir-files,*,vendor/InFocus/G42/proprietary/lib,system/lib)
 
-PRODUCT_COPY_FILES += $(call find-copy-subdir-files,*,vendor/InFocus/G422/proprietary/lib64,system/lib64)
+PRODUCT_COPY_FILES += $(call find-copy-subdir-files,*,vendor/InFocus/G42/proprietary/lib64,system/lib64)
 
 PRODUCT_COPY_FILES += $(call find-copy-subdir-files,*,vendor/InFocus/G42/proprietary/vendor,system/vendor)
 
